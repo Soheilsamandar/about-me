@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soheilsamandar
+- 👋 Hi, I’m Soheil
 - 👀 I’m interested in lego , python 
 - 🌱 I’m currently learning arduino 
 - 💞️ I’m looking to collaborate on wro 

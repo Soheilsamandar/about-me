@@ -4,5 +4,6 @@
 - Arduino developer 👽
 - Alpha_team ✌️ 
 - Play Arduino and other MCU with LEGO MINDSTORMS 😉
-  
+- connect whit me :
+- seyedsoheilsamandar12@gmail.com
 
